@@ -73,7 +73,7 @@ education:
       time:
       details: |
 
-#experiences:
+experiences:
 #    - role: System Engineer
 #      time: January 2021 - Present
 #      company: ABC-MIB , Yangon , Myanmar
@@ -116,7 +116,7 @@ education:
    
         -Maintenance of network devices installed on construction sites.
 
-projects:
+#projects:
     title: Projects
     intro: >
       
