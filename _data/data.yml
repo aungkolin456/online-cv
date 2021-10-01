@@ -73,16 +73,16 @@ education:
       time:
       details: |
 
-experiences:
-    - role: System Engineer
-      time: January 2021 - Present
-      company: ABC-MIB , Yangon , Myanmar
-      details: |
-        -web servers installations.
+#experiences:
+#    - role: System Engineer
+#      time: January 2021 - Present
+#      company: ABC-MIB , Yangon , Myanmar
+#      details: |
+#        -web servers installations.
+# 
+#        -Collaborate with other vendor for mobile app developing and E-commerce wesites.
  
-        -Collaborate with other vendor for mobile app developing and E-commerce wesites.
- 
-        -Handeling the operation and maintenance for existing servers on VM ware.
+#        -Handeling the operation and maintenance for existing servers on VM ware.
 
     - role: System Engineer
       time: November 2019 - October 2020
