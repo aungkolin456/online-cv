@@ -14,7 +14,7 @@ sidebar:
     email: linaungko3@gmail.com
     phone: 09761970155
     #website: blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin: aungko-lin-b56b14165
     xing: 
     github: aungkolin456
     telegram: # add your nickname without '@' sign
@@ -78,7 +78,15 @@ experiences:
       time: October 2021 - present
       company: Better Hr
       detials: |
-      
+        -Helping senior DevOps Engineer , such as new version release , design new architecture and 
+          servers monitoring.
+
+        -Build CI\CD pipelines on gitlab.
+
+        -Deploying on debug servers and staging servers.
+
+        -Help QA Engineer and Developers to testing on debug servers and staging servers.
+
     - role: System Engineer
       time: January 2021 - Present
       company: ABC-MIB , Yangon , Myanmar
