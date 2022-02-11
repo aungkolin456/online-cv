@@ -78,15 +78,14 @@ experiences:
       time: October 2021 - present
       company: Better Hr ,Yangon, Myanmar
       detials: |
-        -Helping senior DevOps Engineer , such as new version release , design new architecture and 
-        servers monitoring.
+        -Helping senior DevOps Engineer , such as new version release , design new architecture and servers monitoring.
 
         -Build CI\CD pipelines on gitlab.
 
         -Deploying on debug servers and staging servers.
 
         -Help QA Engineer and Developers to testing on debug servers and staging servers.
-        
+
     - role: System Engineer
       time: January 2021 - Present
       company: ABC-MIB , Yangon , Myanmar
