@@ -74,7 +74,7 @@ education:
       details: |
 
 experiences:
-    -role: DevOps Trainee
+    - role: DevOps Trainee
       time: October 2021 - present
       company: Better Hr
       detials: |
