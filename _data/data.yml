@@ -140,31 +140,31 @@ skills:
 
     toolset:
       - name: Server Maintenance
-        level: 90%
+        level: 100%
       
       - name: Network Infrastructure
-        level: 90%
+        level: 100%
 
       - name: Linux Server Administration
-        level: 90%
+        level: 100%
 
       - name: Troubleshooting and Support
-        level: 90%
+        level: 100%
 
       - name: Cloud Services (AWS)
-        level: 90%
+        level: 100%
 
       - name: Bash Script
-        level: 90%
+        level: 100%
 
       - name: CI/CD
-        level: 90%
+        level: 100%
 
       - name: Docker
-        level: 90%
+        level: 100%
 
       - name: Git
-        level: 90%
+        level: 100%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
