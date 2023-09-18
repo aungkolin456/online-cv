@@ -75,97 +75,54 @@ education:
 
 experiences:
     
-    - role: DevOps 
-      time: October 2022 - July 2023
+    - role: DevOps Engineer
+      time: May 2022 - July 2023
       company: Global Technology
       details: |
-         -Monitoring and resolving production issues: This involves troubleshooting and fixing problems as they arise, often in real-time.
-         
-         -Deploying code changes: This includes testing code changes in a staging environment, then deploying them to production if they pass the tests.
-         
-         -Managing infrastructure: This involves tasks such as configuring and maintaining servers, databases, and other infrastructure components.
-         
-         -Responsible for automating tasks such as building, testing, and deploying code to ensure efficiency and consistency.
-         
-         -Collaborating with development and operations teams: work closely with developers and operations teams to ensure smooth, 
-          efficient delivery of software.
-          
-         -Continuous integration and continuous delivery (CI/CD): responsible for setting up and maintaining a CI/CD pipeline to automate
-          the delivery process.
-          
-         -Performance tuning and optimization: This involves optimizing the performance of systems, applications,
-          and infrastructure components to ensure a high level of performance and reliability.
-        
+        - Conducted daily monitoring of server usage and container status.
+        - Designed and tested CI/CD pipelines on GitLab.
+        - Implemented code deployment on AWS.
+        - Resolved urgent servers issues and provided support to developers.
+        - Configured development environments on the company's development server.
+        - Conducted investigations into cloud infrastructures and development architectures.
+        - Focused on cost optimization initiatives.
+        - Executed database (RDS) migration projects.
+        - Led discussions and implemented EC2 auto scaling on production.
+
     - role: DevOps Trainee
       time: October 2021 - March 2022
       company: Better HR ,Yangon, Myanmar
       details: |
-        -Helping senior DevOps Engineer , such as new version release , design new architecture and 
-        servers monitoring.
-
-        -Build CI\CD pipelines on gitlab.
-
-        -Deploying on debug servers and staging servers.
-
-        -Help QA Engineer and Developers to testing on debug servers and staging servers.
+        - Assisted senior DevOps Engineers with tasks such as new version releases, architectural design, and server monitoring.
+        - Built CI/CD pipelines on GitLab.
+        - Deployed and maintained debug and staging servers using Ansible.
+        - Supported QA Engineers and Developers in testing on debug and staging servers.
 
     - role: System Engineer
       time: January 2021 - December 2021
       company: ABC-MIB , Yangon , Myanmar
       details: |
-        -Monitoring and maintaining system performance: Monitoring various systems to ensure they are functioning optimally, 
-          and taking action to resolve any issues that arise.
-          
-        -Providing technical support: Responding to technical support requests from users, troubleshooting issues, and providing solutions.
-        
-        -Managing backups and disaster recovery: Ensuring that data is backed up and that disaster recovery plans are in place.
-        
-        -nstalling and configuring software and hardware: Installing and configuring new hardware and software components, 
-         and upgrading existing systems as needed.
-         
-        -Managing network and security: Monitoring network security, implementing security measures, 
-         and ensuring that systems and data are protected against unauthorized access.
-         
-        -Performing regular system maintenance: Performing routine maintenance tasks, such as applying software patches and upgrades,
-         to keep systems running smoothly.
-         
-        -Documenting systems and processes: Documenting systems, processes, and procedures, and keeping documentation up-to-date.
-        
-        -Collaborate with other vendor for mobile app developing and E-commerce wesites.
- 
-        -Handeling the operation and maintenance for existing servers on VM ware.
+        - Installed web services.
+        - Collaborated with vendors to develop mobile apps and e-commerce websites.
+        - Managed the operation and maintenance of servers and VMware workstations.
 
     - role: System Engineer
-      time: November 2019 - October 2020
+      time: November 2019 - December 2020
       company: Code2lab , Yangon , Myanmar
       details: |
-        -web servers installations.
- 
-        -collaborate with other vendor for mobile app developing and E-commerce wesites.
- 
-        -Handeling the operation and maintenance for existing servers on VM ware.
- 
-        -Deploy POS Software on Linux Servers.
- 
-        -Setup Network Infrastructure for clients.
- 
-        -Synchronization datas from local servers to cloud servers.
- 
-        -POS software supporting to clients. 
- 
-        -Handeling the operation and maintenance for POS software.
+        - Deployed POS software on Linux servers for clients.
+        - Designed and implemented network infrastructure solutions for clients.
+        - Provided ongoing support for POS software to clients.
+        - Managed the operation and maintenance of POS software.
 
     - role: IT Engineer
       time: October 2018 - September 2019
       company: Naing Group , Yangon , Myanmar.
       details: |
-        -Maintenamce the Servers (AD Servers, File Servers, Web Servers) , Desktops,
-          Laptops, Network Devices and NAS.
-  
-        -Collaborate with other vendor for installation of POS Software and 
-          ERP Software.
-   
-        -Maintenance of network devices installed on construction sites.
+        - Managed the maintenance of critical servers including Active Directory (AD) servers, file servers, web servers, and network devices.
+        - Provided technical support to office staff, resolving desktop, laptop, and network device issues.
+        - Collaborated with software vendors to install POS (Point of Sale) and ERP software.
+        - Oversaw the maintenance of network devices at construction sites.
 
 #projects:
 #    title: Projects
@@ -182,20 +139,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux SysAdmin
-        level: 80%
+      - name: Server Maintenance
+        level: 90%
+      
+      - name: Network Infrastructure
+        level: 90%
+
+      - name: Linux Server Administration
+        level: 90%
+
+      - name: Troubleshooting and Support
+        level: 90%
+
+      - name: Cloud Services (AWS)
+        level: 90%
 
       - name: Bash Script
-        level: 60%
+        level: 90%
 
       - name: CI/CD
-        level: 70%
+        level: 90%
 
       - name: Docker
-        level: 100%
+        level: 90%
 
       - name: Git
-        level: 80%
+        level: 90%
 
 footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
