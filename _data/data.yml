@@ -33,12 +33,12 @@ sidebar:
       - idiom: English
         level: Proficiency
 
-    interests:
-      - item: Scripting
-        link:
-
-      - item: Microservices
-        link:
+    # interests:
+      # - item: Scripting
+        # link:
+# 
+      # - item: Microservices
+        # link:
 
 career-profile:
     title: Career Profile
