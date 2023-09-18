@@ -26,12 +26,15 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: 
 
-    Languages:
+    languages:
       - idiom: Myanamar
         level: Native
 
       - idiom: English
         level: Proficiency
+
+    skills:
+      - item: Server Maintenance
     
     # interests:
       # - item: Scripting
