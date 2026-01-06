@@ -12,7 +12,7 @@ sidebar:
 
     # Sidebar links
     email: linaungko3@gmail.com
-    phone: 09761970155
+    phone: 09450860910
     #website: blog.webjeda.com #do not add http://
     linkedin: aungko-lin-b56b14165
     xing: 
@@ -33,11 +33,11 @@ sidebar:
       - idiom: English
         level: Proficiency
     
-    # interests:
+    interests:
       # - item: Scripting
         # link:
 # 
-      # - item: Microservices
+      - item: Microservices
         # link:
 
 career-profile:
@@ -56,7 +56,7 @@ education:
 
     - degree: Bachelor of Art Myanmar
       university: Distance Education (Toungup University)
-      time: 2015 - 2020
+      time: 2015 - 2021
       details: |
         
     - degree: Network and Server base
@@ -82,7 +82,7 @@ education:
 experiences:
     - role: Site Reliability Senior Engineer
       time: November 2023 - Present
-      company: Ooredoo Myanmar Limited
+      company: Nine Communication Company Limited
       details: |
         - 
     
